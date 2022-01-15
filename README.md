@@ -16,5 +16,16 @@ System call 추가 및 interrupt 추가
 [Project02](https://github.com/yudonlee/OS/blob/main/project02/README.md "Project02")
 
 - FCFS scheduler
+  | Result1 | Result2 | Result3 |
+  | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+  | ![](https://github.com/yudonlee/OS/blob/main/image/fcfs_result_1.png) | ![](https://github.com/yudonlee/OS/blob/main/image/fcfs_result_2.png) | ![](https://github.com/yudonlee/OS/blob/main/image/fcfs_result_3.png) |
 - Multilevel queue scheduler(Round Robin, FCFS)
+  | Result1 | Result2 | Result3 | Result 4|
+  | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+  :-------------------------------------------------------------------: |
+  | ![](https://github.com/yudonlee/OS/blob/main/image/ml_result_1.png) | ![](https://github.com/yudonlee/OS/blob/main/image/ml_result_2.png) | ![](https://github.com/yudonlee/OS/blob/main/image/ml_result_3.png) | ![](https://github.com/yudonlee/OS/blob/main/image/ml_result_4.png) |
+
 - MLFQ scheduler(Round robin, Priority scheduler)
+  | Result1 | Result2 |
+  | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+  | ![](https://github.com/yudonlee/OS/blob/main/image/mlfq_result_1.png) | ![](https://github.com/yudonlee/OS/blob/main/image/mlfq_result_1.png) |

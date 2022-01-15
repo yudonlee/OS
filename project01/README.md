@@ -6,8 +6,9 @@ xv6에 getppid() System call 및 interrupt 128 추가
 
 | Project01-1 | Project01-2 |
 | :---------: | :---------: |
-
+| getppid() 구현 | interrupt 128 number 추가 |
 | ![](https://github.com/yudonlee/OS/blob/main/image/project01_1_result.png) | ![](https://github.com/yudonlee/OS/blob/main/image/project01_2_result.png) |
+
 
 ## 실행결과 분석
 
